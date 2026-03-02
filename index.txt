@@ -15,6 +15,7 @@ iron                        application host                    server at tufo's
 
 [public]
 tufo.dev.                   tufo's site
+tufo.dev./to-host.txt       list of stuff tufo want's to host at some point
 tea.tufo.dev.               a webserver that responds with the http status code 418 to any request
 expander.tufo.dev.          nginx config that expands specific domains to others
 infra.tufo.dev.             redirect to a uptimekuma dashboard showing most of tufo's infrastructure
