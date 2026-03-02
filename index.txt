@@ -1,0 +1,23 @@
+[this is a domain belonging to tufo]
+
+a list of stuff hosted by tufo
+
+[contact]
+matrix                      @tufo:matrix.catgirl.cloud          checked regularely
+electronic mail             contact[at]tufo.dev                 checked regularely
+mastodon                    @tufo@catgirl.cloud                 checked regularely
+discord                     @tufo09                             checked less regularely
+
+[devices]
+naron                       proxy server                        vps in vienna with public ip's
+tungsten                    proxmox host                        server at tufo's home
+iron                        application host                    server at tufo's home
+
+[public]
+tufo.dev.                   tufo's site
+tea.tufo.dev.               a webserver that responds with the http status code 418 to any request
+expander.tufo.dev.          nginx config that expands specific domains to others
+infra.tufo.dev.             redirect to a uptimekuma dashboard showing most of tufo's infrastructure
+
+[private]
+---
