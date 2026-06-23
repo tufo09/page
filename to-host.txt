@@ -1,5 +1,0 @@
-[services tufo want's to host at some point]
-mollysocket                     https://github.com/mollyim/mollysocket
-gomuks                          https://github.com/gomuks/gomuks
-authentik			https://github.com/goauthentik/authentik
-ntfy				https://github.com/dschep/ntfy
