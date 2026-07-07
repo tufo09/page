@@ -1,0 +1,21 @@
+body {
+    color: white;
+    background-color: black;
+    display: flex;
+    min-height: 100vh;
+    margin: 0;
+}
+
+body > * {
+    padding: 8px;
+}
+
+.sidebar {
+    background-color: #302d2d;
+    width: 20%;
+}
+
+.content {
+    background-color: #1f1d1d;
+    flex-grow: 1;
+}
