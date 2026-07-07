@@ -10,6 +10,10 @@ body > * {
     padding: 8px;
 }
 
+a {
+    color: white;
+}
+
 .sidebar {
     background-color: #302d2d;
     width: 20%;
